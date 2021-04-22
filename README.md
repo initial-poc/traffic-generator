@@ -1,7 +1,7 @@
 # Jmeter Traffic-generator
 
-This repo contains a Jmeter JMX file through which the traffic can be generated to spanner-crud exposed API endpoint.
-
+This repo contains a Jmeter JMX file which can be used to generate the traffic to spanner-crud exposed API endpoint.
+    
 Steps to generate traffic:
 ```
 1. CSV Data Set Config from with-in Jmeter script has to be configured with the desired csv file to upload records.
